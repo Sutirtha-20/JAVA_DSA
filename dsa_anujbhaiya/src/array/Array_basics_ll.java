@@ -12,7 +12,7 @@ public class Array_basics_ll {
 		for(int i=arr.length-1;i>=0;i--)
 		{
 			if(arr[i]>max) {
-				max = arr[i];
+				max = arr[i];;
 				narr[j++]=arr[i];
 			}		
 		}
