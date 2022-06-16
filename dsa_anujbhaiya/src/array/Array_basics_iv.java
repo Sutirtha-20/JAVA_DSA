@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Array_basics_iv {
 	
-	//with O(1) complexity
+	//with O(1) space complexity
 	public static int tappingrainwater(int[] arr)
 	{
 		int leftmax = 0;
