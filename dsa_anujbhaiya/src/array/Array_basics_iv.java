@@ -17,7 +17,7 @@ public class Array_basics_iv {
 			if(arr[l]<arr[r])
 			{
 				if(arr[l]>leftmax)
-					leftmax = arr[l];
+					leftmax = arr[l]; 
 				else
 					ans += leftmax-arr[l];
 				l++;
