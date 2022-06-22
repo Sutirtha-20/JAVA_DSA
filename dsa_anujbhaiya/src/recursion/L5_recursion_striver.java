@@ -17,6 +17,6 @@ public class L5_recursion_striver {
 	
 	
 	public static void main(String[] args) {
-		
+		System.out.println(fibonacciwithrecursion(5));
 	}
 }
