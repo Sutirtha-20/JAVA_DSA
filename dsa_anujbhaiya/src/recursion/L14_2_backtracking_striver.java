@@ -78,7 +78,7 @@ public class L14_2_backtracking_striver {
 			for(String k : i) 
 			{
 				System.out.print(k+" ");
-				count++;
+				count++; 
 				if(count==1)
 					System.out.println();
 				if(count==2)

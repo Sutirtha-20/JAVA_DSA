@@ -120,7 +120,7 @@ public class L14_backtracking_striver {
 				System.out.print(k+" "); 
 				count++;
 				if(count==1)
-					System.out.println(); 
+					System.out.println();  
 				if(count==2)
 					System.out.println();
 				if(count==3)
