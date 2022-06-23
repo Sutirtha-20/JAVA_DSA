@@ -7,7 +7,7 @@ public class L4_recursion_striver {
 //		  int l = 0;
 //		  int r = a.length-1;
 //		  reversehelpfunction(a,l,r);
-		int i = 0;
+		int i = 0; 
 		reversehelpfunction2(i,a);
 		  for(int k:a)
 			  System.out.println(k);
