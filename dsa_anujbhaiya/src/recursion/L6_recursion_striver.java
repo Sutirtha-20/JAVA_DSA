@@ -32,7 +32,7 @@ public class L6_recursion_striver {
 	
 	public static void main(String[] args) {
 //		int[] arr = new int[]
-		int[] ans = {3,1,2};
+//		int[] ans = {3,1,2};
 //		printallsubsequence(ans);
 		System.out.println(2/10);
 	}
