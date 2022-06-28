@@ -3,7 +3,7 @@ package recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class L14_backtracking_striver {
+public class NQueen_backtracking_striver {
 
 	public static List<List<String>> nqueen(int n)
 	{

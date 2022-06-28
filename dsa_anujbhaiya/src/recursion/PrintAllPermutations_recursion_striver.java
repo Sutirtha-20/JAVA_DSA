@@ -3,7 +3,7 @@ package recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class L12_recursion_striver {
+public class PrintAllPermutations_recursion_striver {
 
 	public static List<List<Integer>> permutations(int[] a,int n)
 	{

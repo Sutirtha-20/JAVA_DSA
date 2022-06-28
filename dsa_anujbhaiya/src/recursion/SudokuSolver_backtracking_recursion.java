@@ -1,6 +1,6 @@
 package recursion;
 
-public class L15_backtracking_recursion {
+public class SudokuSolver_backtracking_recursion {
 	
 	public static boolean sudokusolver(char[][] board)
 	{

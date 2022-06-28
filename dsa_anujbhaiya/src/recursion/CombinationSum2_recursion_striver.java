@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class L9_recursion_striver {
+public class CombinationSum2_recursion_striver {
 	
 	public static void combinationsum2(int[] a,int target)
 	{

@@ -3,7 +3,7 @@ package recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class L6_recursion_striver {
+public class PrintAllSubsequence_recursion_striver {
 
 	public static void printallsubsequence(int[] a)
 	{
@@ -25,7 +25,7 @@ public class L6_recursion_striver {
 		}
 		arr.add(a[index]);
 		printallsubsequencehelper(index+1,arr,a);
-		arr.remove(a[index]);
+		arr.remove(arr.size()-1);
 		printallsubsequencehelper(index+1,arr,a);
 		
 	}
@@ -34,6 +34,10 @@ public class L6_recursion_striver {
 //		int[] arr = new int[]
 //		int[] ans = {3,1,2};
 //		printallsubsequence(ans);
-		System.out.println(2/10);
+//		System.out.println(2/10);
+//		String curr = "abc";
+//		System.out.println(curr);
+//		curr = curr.substring(0, curr.length()-1);
+//		System.out.println(curr);
 	}
 }

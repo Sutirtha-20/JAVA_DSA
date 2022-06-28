@@ -1,6 +1,6 @@
 package recursion;
 
-public class L3_recursion_striver {
+public class Factorial_recursion_striver {
 	
 	//sum of first 3 numbers using recu rsion
 	public static int sum(int n)

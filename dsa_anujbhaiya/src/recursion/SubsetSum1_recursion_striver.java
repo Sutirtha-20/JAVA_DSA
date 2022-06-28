@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class L10_recursion_striver {
+public class SubsetSum1_recursion_striver {
 	
 	public static List<Integer> subsetsum(int[] a)
 	{

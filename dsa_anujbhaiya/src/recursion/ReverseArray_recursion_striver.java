@@ -1,6 +1,6 @@
 package recursion;
 
-public class L4_recursion_striver {
+public class ReverseArray_recursion_striver {
 	
 	public static void reversearraywithrecursion(int[] a)
 	{

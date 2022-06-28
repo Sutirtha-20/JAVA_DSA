@@ -1,6 +1,6 @@
 package recursion;
 
-public class L5_recursion_striver {
+public class Fibonacci_recursion_striver {
 	public static int fibonacciwithrecursion(int n)
 	{
 		//base case

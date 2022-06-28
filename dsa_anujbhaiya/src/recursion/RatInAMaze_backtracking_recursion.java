@@ -3,7 +3,7 @@ package recursion;
 import java.util.ArrayList;
 import java.util.List;
 
-public class L19_backtracking_recursion {
+public class RatInAMaze_backtracking_recursion {
 	
 	public static List<String> ratinamaze(int[][] a)
 	{
